@@ -1,0 +1,10 @@
+Cw2:
+  Termy:
+      -stałe
+      -zmienne
+      -termy zlozone
+  Predykaty
+  
+  Stała - (od malej litery albo w ''  np. ania , 'Ania') ew. znaki
+  Zmienna - (od duzej litery albo zaczyna sie od "_")
+  
